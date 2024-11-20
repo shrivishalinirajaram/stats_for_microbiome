@@ -20,7 +20,7 @@ The answer to this is the Statistics.
 
 So what forms the basis to understand statistics?
 
-🤔 Some basic terminology can help understand better - View [Jargons](Jargons%2014302d64322d804283bece8d0668286f.md)
+🤔 Some basic terminology can help understand better - View [Jargons]()
 
 ### Data analysis  - gathering, display and summary of a data (now called data description)
 
