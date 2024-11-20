@@ -1,8 +1,6 @@
 # Statistics for microbiome
 This is a part of a complete series of my learning notes on Microbiome. This contains statistics and data analysis concepts, tutorials and resources.
 
-# Statistics
-
 ## Why is statistics so important in analyzing any data?
 
 In microbiome data analysis, say, taxonomic or functional profiling is identifying some microbes, genes, or pathways. 
