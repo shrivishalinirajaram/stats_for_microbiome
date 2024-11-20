@@ -11,16 +11,11 @@ How do we know the tool identified it accurately?
 
 There is almost always an uncertainty in any data and/or any analysis. How do we understand the uncertainty and how much of it is uncertain? 
 
-<aside>
-💡
+💡** The answer to this is the Statistics. **
 
-The answer to this is the Statistics. 
+_So what forms the basis to understand statistics?_
 
-</aside>
-
-So what forms the basis to understand statistics?
-
-🤔 Some basic terminology can help understand better - View [Jargons]()
+🤔 Some basic terminology can help understand better - View [Jargons](https://github.com/shrivishalinirajaram/microbiome_jargons)
 
 ### Data analysis  - gathering, display and summary of a data (now called data description)
 
